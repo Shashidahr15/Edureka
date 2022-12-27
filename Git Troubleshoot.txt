@@ -1,0 +1,6 @@
+1. Git Authentication Issue:
+
+git remote set-url origin https://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@github.com/Shashidahr15/<repositoryname>.git
+
+git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+
